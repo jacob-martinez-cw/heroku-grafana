@@ -1,0 +1,3 @@
+[submodule "public/public/app/plugins/datasource/grafana-newrelic-datasource-plugin"]
+	path = public/public/app/plugins/datasource/grafana-newrelic-datasource-plugin
+	url = https://github.com/vistaprint/grafana-newrelic-datasource-plugin.git
